@@ -17,6 +17,7 @@ packages=(
   fzf
   bat
   ripgrep
+  fd
   exa
 )
 
